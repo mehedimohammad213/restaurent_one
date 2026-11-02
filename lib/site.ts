@@ -1,6 +1,6 @@
 export const restaurant = {
-  name: "Crawfords Pizza Pub & Pins",
-  shortName: "Crawfords",
+  name: "foodpanda",
+  shortName: "foodpanda",
   tagline: "Pizza, a cold drink, and a few frames in downtown Moweaqua.",
   address: "200 S Main St, Moweaqua, IL 62550, United States",
   street: "200 S Main St",
@@ -51,11 +51,11 @@ export function chicagoClock(date: Date) {
 }
 
 export const aboutParagraphs = [
-  "Nestled in the heart of Moweaqua, Illinois, Crawfords Pizza Pub & Pins at 200 S Main St offers a delightful blend of pizza perfection and casual pub vibes that make it a go-to spot for both locals and visitors. From the moment you walk in, the welcoming atmosphere immediately sets the tone for a relaxed dining experience. Whether you’re planning a quick takeout or a leisurely evening with table service, this restaurant caters seamlessly to every preference.",
-  "The menu at Crawfords Pizza Pub & Pins is a treat for anyone craving hearty, flavorful dishes. The BBQ Chicken Salad stands out as a fresh and satisfying option, combining tender chicken with a smoky barbecue dressing that perfectly balances sweet and savory notes. For meat lovers, the Meat Specialty pizza is a must-try, generously layered with flavorful toppings that showcase the kitchen’s attention to detail and dedication to quality ingredients. Every bite feels indulgent yet thoughtfully prepared, making it easy to see why regulars rave in their reviews.",
-  "Accessibility and convenience are part of the experience here. The restaurant provides wheelchair accessible parking, ensuring that everyone can enjoy a hassle-free visit. For those late-night cravings, Crawfords Pizza Pub & Pins remains open with late-night food options, so you can satisfy hunger pangs well after the usual dinner hours. In addition, dessert selections add a sweet finish to any meal, rounding out the menu with something for everyone.",
-  "Takeout services are streamlined, making it simple to enjoy Crawfords’ signature dishes at home. Meanwhile, those who prefer to linger can enjoy the friendly ambiance and attentive staff that make table service feel personal and welcoming. The combination of casual dining, flavorful food, and thoughtful amenities positions this location as more than just a pizza spot — it’s a place where meals turn into experiences.",
-  "Whether you’re stopping by for a quick bite, planning a fun night out with friends, or sampling new dishes from the menu, Crawfords Pizza Pub & Pins consistently delivers satisfying flavors in a comfortable, inviting setting. Its blend of classic favorites, attentive service, and accessible facilities ensures that every visit leaves a positive impression, making it a standout destination in Moweaqua.",
+  "Nestled in the heart of Moweaqua, Illinois, foodpanda at 200 S Main St offers a delightful blend of pizza perfection and casual pub vibes that make it a go-to spot for both locals and visitors. From the moment you walk in, the welcoming atmosphere immediately sets the tone for a relaxed dining experience. Whether you’re planning a quick takeout or a leisurely evening with table service, this restaurant caters seamlessly to every preference.",
+  "The menu at foodpanda is a treat for anyone craving hearty, flavorful dishes. The BBQ Chicken Salad stands out as a fresh and satisfying option, combining tender chicken with a smoky barbecue dressing that perfectly balances sweet and savory notes. For meat lovers, the Meat Specialty pizza is a must-try, generously layered with flavorful toppings that showcase the kitchen’s attention to detail and dedication to quality ingredients. Every bite feels indulgent yet thoughtfully prepared, making it easy to see why regulars rave in their reviews.",
+  "Accessibility and convenience are part of the experience here. The restaurant provides wheelchair accessible parking, ensuring that everyone can enjoy a hassle-free visit. For those late-night cravings, foodpanda remains open with late-night food options, so you can satisfy hunger pangs well after the usual dinner hours. In addition, dessert selections add a sweet finish to any meal, rounding out the menu with something for everyone.",
+  "Takeout services are streamlined, making it simple to enjoy foodpanda’s signature dishes at home. Meanwhile, those who prefer to linger can enjoy the friendly ambiance and attentive staff that make table service feel personal and welcoming. The combination of casual dining, flavorful food, and thoughtful amenities positions this location as more than just a pizza spot — it’s a place where meals turn into experiences.",
+  "Whether you’re stopping by for a quick bite, planning a fun night out with friends, or sampling new dishes from the menu, foodpanda consistently delivers satisfying flavors in a comfortable, inviting setting. Its blend of classic favorites, attentive service, and accessible facilities ensures that every visit leaves a positive impression, making it a standout destination in Moweaqua.",
 ];
 
 export type MenuItem = {
@@ -244,17 +244,17 @@ export const reviews = [
   },
   {
     quote:
-      "I have had Crawford's food several times. But last night 10/4/24 I had the best cheeseburger. I had a single cheeseburger with grilled onions, lettuce and tomato with mayonnaise. The bun was soft and the burger was awesome. The next day I felt like ordering it again, it was that good. If you ever go to Crawford's you gotta try their cheeseburgers with grilled onions. Your mouth will definitely be happy with how it tastes.",
+      "I have had foodpanda food several times. But last night 10/4/24 I had the best cheeseburger. I had a single cheeseburger with grilled onions, lettuce and tomato with mayonnaise. The bun was soft and the burger was awesome. The next day I felt like ordering it again, it was that good. If you ever go to foodpanda you gotta try their cheeseburgers with grilled onions. Your mouth will definitely be happy with how it tastes.",
     name: "Cindy McDonald",
   },
 ];
 
 export const photos = [
-  { src: "/images/hero.jpg", alt: "Specialty pizza from Crawfords" },
+  { src: "/images/hero.jpg", alt: "Specialty pizza from foodpanda" },
   { src: "/images/gallery-4.jpg", alt: "Loaded pizza with ham and pepperoni" },
   { src: "/images/gallery-3.jpg", alt: "Chicken salad in a red bowl" },
   { src: "/images/gallery-2.jpg", alt: "BBQ chicken salad on a pub table" },
-  { src: "/images/gallery-1.jpg", alt: "Bowling lanes at Crawfords Pizza Pub & Pins" },
+  { src: "/images/gallery-1.jpg", alt: "Bowling lanes at foodpanda" },
   { src: "/images/logo.jpg", alt: "Dining tables beside the bowling lanes" },
 ];
 

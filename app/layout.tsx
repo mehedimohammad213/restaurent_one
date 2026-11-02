@@ -27,7 +27,7 @@ export const metadata: Metadata = {
     template: `%s | ${restaurant.name}`,
   },
   description:
-    "Pizza, pub favorites, and bowling at Crawfords Pizza Pub & Pins, 200 S Main St, Moweaqua, Illinois. See the menu, hours, photos, and how to visit.",
+    "Pizza, pub favorites, and bowling at foodpanda, 200 S Main St, Moweaqua, Illinois. See the menu, hours, photos, and how to visit.",
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {

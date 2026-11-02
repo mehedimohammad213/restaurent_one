@@ -42,7 +42,7 @@ export function About() {
           <div className="relative h-64 overflow-hidden rounded-2xl sm:h-72">
             <Image
               src="/images/gallery-1.jpg"
-              alt="Bowling lanes at Crawfords"
+              alt="Bowling lanes at foodpanda"
               fill
               sizes="(min-width: 1024px) 380px, 100vw"
               className="object-cover"

@@ -56,7 +56,7 @@ export function Location() {
         </div>
         <div className="h-[320px] overflow-hidden rounded-2xl shadow-sm sm:h-[420px]">
           <iframe
-            title="Map to Crawfords Pizza Pub & Pins"
+            title="Map to foodpanda"
             src={restaurant.mapEmbed}
             className="h-full w-full border-0"
             loading="lazy"

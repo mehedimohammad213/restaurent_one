@@ -19,7 +19,7 @@ export function Hero({
         className="absolute inset-0 bg-cover bg-center"
         style={{ backgroundImage: "url(/images/hero.jpg)" }}
         role="img"
-        aria-label="Specialty pizza from Crawfords"
+        aria-label="Specialty pizza from foodpanda"
       />
       <div className="absolute inset-0 bg-gradient-to-b from-ink/70 via-ink/45 to-ink/75" />
       <div className="relative z-10 mx-auto max-w-4xl px-6 pt-28 pb-16 text-center">
